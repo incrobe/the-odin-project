@@ -7,30 +7,12 @@ html {
     sans-serif;
 }
 
-#one {
-  padding: 0.5em 2.5em 0.5em 2.5em;
-  display: flex;
-  flex-direction: column;
-  background-color: #1f2937;
+body {
+  padding: 0px;
+  margin: 0px;
+  font-size: 12px;
 }
 
-#headerlogo {
-  float: left;
-  font-weight: bold;
-  font-size: 24px;
-  color: #f9faf8;
-}
-
-nav > a {
-  float: right;
-  font-size: 18px;
-  color: #e5e7eb;
-  text-decoration: none;
-}
-
-h1 {
-  text-align: left;
-  font-size: 48px;
-  font-weight: bolder;
-  color: #f9faf8;
+.container {
+  background-color: #000a;
 }
